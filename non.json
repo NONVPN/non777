@@ -14,12 +14,12 @@
       }
 ,
 {
-         "name": "FREE-SG-03-DATC",
+         "name": "FREE-SG-03-DTAC",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-03-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-SG-04-DATC",
+         "name": "FREE-SG-04-DTAC",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-04-DTAC.ovpn"
       }
 ,
@@ -29,7 +29,7 @@
       }
 ,
 {
-         "name": "VIP-TH-DATC",
+         "name": "VIP-TH-DTAC",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TH-VIP-DTAC.ovpn"
       }
 ,
@@ -53,5 +53,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":6
+   "version":7
 }
