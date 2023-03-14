@@ -30,18 +30,18 @@
 ,
 {
          "name": "VIP-TH-DATC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TH-VIP-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TH-VIP-DTAC.ovpn"
       }
 ,
 {
          "name": "VIP-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TH-VIP-TRUE.ovpn"
       }
 
 
    ],
 "message":"
--*ยินดีรับสู่ NON VPN
+ยินดีรับสู่ NON VPN
 
 มีเซิฟเวอร์มากมายให้ท่านได้เลือกไช้✅
 มีแอดมินคอยดูแลตลอดตลอด24ชั่วโมง✅
@@ -53,5 +53,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
