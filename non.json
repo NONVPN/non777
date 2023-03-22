@@ -24,28 +24,35 @@
       }
 ,
 {
-         "name": "FREE-SG-05-AIS",
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
-      }
-,
-{
          "name": "VIP-TH-AIS",
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TRUE%2BDTAC.ovpn"
+         "name": "VIP-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/DTC.ovpn"
+      }
+,
+{
+         "name": "VIP-TRUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/THE.ovpn"
       }
 
 
    ],
 "message":"
-VIP วันละ 1.50
+ห้ามไช้เบิ่งหนังavเด้อจ่ะ👀
+ไครไช้เบิ่งหนังavฉันขอจับตอกสดๆเด้อจ่ะ🚨
+
+ราคาVIP
+💸วันละ 1.55
+💸7วัน 10.55บาท
+💸15วัน 22บาท
+💸30วัน 45บาท
 
 
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":11
+   "version":12
 }
