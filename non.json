@@ -25,17 +25,17 @@
 ,
 {
          "name": "VIP-TH-AIS",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/AIS.ovpn"
+         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
          "name": "VIP-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/DTC.ovpn"
+         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
-         "name": "VIP-TRUE",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/THE.ovpn"
+         "name": "VIP-TRUE+DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/nonjj.ovpn"
       }
 
 
@@ -54,5 +54,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":12
+   "version":13
 }
