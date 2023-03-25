@@ -4,57 +4,115 @@
 
 
 {
-         "name": "FREE-SG-01-TRUE",
+     
+ "name":
+"FREE-SG-TEUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-01-TRUE.ovpn"
+      }
+,
+{
+      
+  "name":
+"FREE-SG-TEUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-02-TRUE.ovpn"
+      }
+,
+{
+        
+ "name":
+"FREE-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-03-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-SG-TEUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-04-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-SG-TEUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-05-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-06-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-07-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-08-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-09-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-10-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-TRUE",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/nonjj.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-DTAC",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/nonjj.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-AIS",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/a.ovpn"
+      }
+,
+{
+         "name": "VIP-ZCOM01-TRUE",
          "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
-         "name": "FREE-SG-02-TRUE",
+         "name": "VIP-ZCOM02-AIS",
          "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
-         "name": "FREE-SG-03-DTAC",
+         "name": "VIP-ZCOM02-DTAC",
          "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
-         "name": "FREE-SG-04-DTAC",
+         "name": "VIP-ZCOM02-TRUE",
          "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
-      }
-,
-{
-         "name": "VIP-TH-AIS",
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
-      }
-,
-{
-         "name": "VIP-TH-DTAC",
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
-      }
-,
-{
-         "name": "VIP-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/oo.ovpn"
       }
 
 
    ],
 "message":"
-ห้ามไช้เบิ่งหนังavเด้อจ่ะ👀
-ไครไช้เบิ่งหนังavฉันขอจับตอกสดๆเด้อจ่ะ🚨
+🌎- ระบบอัพเดทอัตโนมัติ -🌎
+ 🆙 อัพเดท วันที่ 25-03-2023
 
-ราคาVIP
-💸วันละ 1.55
+📌อัพเดทเซริฟ Free  SG 
+
+vip วันละ 1.55
 💸7วัน 10.55บาท
 💸15วัน 22บาท
 💸30วัน 45บาท
+มีแอดมินคอยดูแลตลอดเวลา🕣
+ปลอดภัยสบายใจหายห่วง
+เซิฟเวอร์VIPสร้างมาจากVPSความเร็วสูง🔥
+ 
 
-มีแอดมินคอยดูแลตลอดเวลาเด้อจ่ะ🥺
 
-
-
-\n\nUpdate:1",
+\n\nเวอร์ชั่นไฟล์:10",
 "title":"New Update File" ,
-   "version":14
+   "version":15
 }
