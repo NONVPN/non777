@@ -6,14 +6,14 @@
 {
      
  "name":
-"FREE-SG-TEUE",
+"FREE-SG-TRUE",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-01-TRUE.ovpn"
       }
 ,
 {
       
   "name":
-"FREE-SG-TEUE",
+"FREE-SG-TRUE",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-02-TRUE.ovpn"
       }
 ,
@@ -25,12 +25,12 @@
       }
 ,
 {
-         "name": "FREE-SG-TEUE",
+         "name": "FREE-SG-TRUE",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-04-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-SG-TEUE",
+         "name": "FREE-SG-TRUE",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/SG-05-TRUE.ovpn"
       }
 ,
@@ -112,7 +112,7 @@ vip วันละ 1.55
  
 
 
-\n\nเวอร์ชั่นไฟล์:10",
+\n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":15
+   "version":1
 }
