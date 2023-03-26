@@ -30,19 +30,19 @@
 ,
 {
          "name": "VIP-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/nonjj.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/D.ovpn"
       }
 ,
 {
          "name": "VIP-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/nonjj.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/T.ovpn"
       }
 
 
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 25-03-2023
+ 🆙 อัพเดท วันที่ 26-03-2023
 
 📌อัพเดทเซริฟ Free  SG 
 
@@ -55,7 +55,7 @@ vip วันละ 1.55
 เซิฟเวอร์VIPสร้างมาจากVPSความเร็วสูง🔥
  
 
-\n\nUpdate:1",
+\n\nUpdate:2",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
