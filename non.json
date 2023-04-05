@@ -25,17 +25,17 @@
 ,
 {
          "name": "VIP-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/a.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/non.ovpn"
       }
 ,
 {
          "name": "VIP-TH-AIS",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/oo.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/AIS.ovpn"
       }
 ,
 {
          "name": "VIP-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/non.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/a.ovpn"
       }
 
 
@@ -45,7 +45,7 @@
 วันละ1.55เท่านั้น☺️
 
 
-\n\nUpdate:12",
+\n\nUpdate:13",
 "title":"New Update File" ,
-   "version":19
+   "version":20
 }
