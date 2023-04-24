@@ -35,7 +35,7 @@
 ,
 {
          "name": "VIP-TH-1-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/TRUE%2BDTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/client-tcp.ovpn"
       }
 
 
@@ -47,7 +47,7 @@
 
 
 
-\n\nUpdate:13",
+\n\nUpdate:1",
 "title":"New Update File" ,
-   "version":29
+   "version":30
 }
