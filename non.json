@@ -29,12 +29,12 @@
       }
 ,
 {
-         "name": "VIP-TH-AIS",
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
+         "name": "VIP-INET-AIS",
+         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/AIS%20..ovpn"
       }
 ,
 {
-         "name": "VIP-TH-1-TRUE+DTAC",
+         "name": "VIP-INET-1-TRUE+DTAC",
          "url": "https://raw.githubusercontent.com/NONVPN/non777/main/NON_VPN.ovpn"
       }
 
@@ -49,5 +49,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":32
+   "version":33
 }
