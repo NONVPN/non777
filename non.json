@@ -15,17 +15,17 @@
 ,
 {
          "name": "VIP-AV1-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/AV2.ovpn"
+         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
          "name": "VIP-AV2-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/01.ovpn"
+         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
       }
 ,
 {
-         "name": "VIP-AV3-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/non777/main/Lin.ovpn"
+         "name": "VIP-AV1-TRUE+DTAC",
+         "url" : "https://raw.githubusercontent.com/NONVPN/non777/main/nonx2.ovpn"
       }
 ,
 {
@@ -54,5 +54,5 @@ NON VPN⚡
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":46
+   "version":47
 }
